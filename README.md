@@ -17,4 +17,11 @@ Conclusion: After applying multiple techniques, the final f1-score is arrived at
 
 html view of the model: https://krishnarj422.github.io/Churn-Prediction-Modeling/Churn_prediction_using_deep_learning.html
 
-Test data results in predicted_churn.csv.
+Test data results in predicted_churn.csv
+
+References:
+https://machinelearningmastery.com/grid-search-hyperparameters-deep-learning-models-python-keras/
+https://machinelearningmastery.com/improve-deep-learning-performance/
+https://keras.io/api/layers/initializers/#randomnormal
+https://keras.io/api/losses/
+https://keras.io/api/optimizers/

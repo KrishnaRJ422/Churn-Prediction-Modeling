@@ -16,3 +16,5 @@ A base line model is considered which has around 71% f1-score over which differe
 Conclusion: After applying multiple techniques, the final f1-score is arrived at 89% from baseline value of 71%.
 
 html view of the model: https://krishnarj422.github.io/Churn-Prediction-Modeling/Churn_prediction_using_deep_learning.html
+
+Test data results in predicted_churn.csv.

@@ -11,6 +11,6 @@ Performance metric: F1-score is considered as metric to evaluate the model perfo
 
 Loss function: Binary cross entropy
 
-A base line model is considered which has around 71% f1-score over which different techniques like feature-scaling, re-sampling, hyper-parameter tuning were using to improve the metric of interest.
+A base line model is considered which has around 71% f1-score over which different techniques like feature-scaling, re-sampling, hyper-parameter tuning were using to improve the metric of interest. Final model is save as .h5 and loaded for reproduceability of results.
 
 Conclusion: After applying multiple techniques, the final f1-score is arrived at 89% from baseline value of 71%.

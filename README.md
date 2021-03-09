@@ -20,8 +20,9 @@ html view of the model: https://krishnarj422.github.io/Churn-Prediction-Modeling
 Test data results in predicted_churn.csv
 
 References:
-https://machinelearningmastery.com/grid-search-hyperparameters-deep-learning-models-python-keras/
-https://machinelearningmastery.com/improve-deep-learning-performance/
-https://keras.io/api/layers/initializers/#randomnormal
-https://keras.io/api/losses/
-https://keras.io/api/optimizers/
+1. https://machinelearningmastery.com/grid-search-hyperparameters-deep-learning-models-python-keras/
+2. https://machinelearningmastery.com/improve-deep-learning-performance/
+3. https://keras.io/api/layers/initializers/#randomnormal
+4. https://keras.io/api/losses/
+5. https://keras.io/api/optimizers/
+6. https://www.finex.co/how-to-display-html-in-github/

@@ -7,7 +7,9 @@ Problem statement: Creating a model to predict the customer churn using customer
 
 Approach: For this problem, deep learning techniques (keras over tensorflow framework) are used to model the problem.
 
-F1-score is considered as metric to evaluate the model performance.
+Performance metric: F1-score is considered as metric to evaluate the model performance.
+
+Loss function: Binary cross entropy
 
 A base line model is considered which has around 71% f1-score over which different techniques like feature-scaling, re-sampling, hyper-parameter tuning were using to improve the metric of interest.
 
